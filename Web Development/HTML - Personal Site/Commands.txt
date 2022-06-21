@@ -1,4 +1,0 @@
-  <ul> - Unorder list
-	<li> - new list item (symbol)
-  <ol> - Ordered List
- 	<li> - new list item (number (1)
